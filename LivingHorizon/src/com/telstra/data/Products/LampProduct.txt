@@ -1,0 +1,6 @@
+1:Study Table Lamp:1000
+2:Swing arm Lamp:1500
+3:Piano Lamp:2300
+4:Vintage Lamp:3000
+5:TestProduct:1200
+6:HINGELAMP:900
