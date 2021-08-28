@@ -1,0 +1,4 @@
+1:Fancy Wall Clock:2000
+2:Flower Vase:1800
+3:Wall Art:5000
+4:chandelier:10000

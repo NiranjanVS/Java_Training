@@ -1,0 +1,78 @@
+Billing Details are as follows
+
+
+abc
+Vintage Lamp
+Focus Light
+Final Cart Value:15880
+
+
+abc
+Study Table Lamp
+Final Cart Value:5000
+
+
+aniket123@gmail.com
+Study Table Lamp
+Study Table Lamp
+Final Cart Value:5000
+
+
+aniket123@gmail.com
+Study Table Lamp
+Swing arm Lamp
+Final Cart Value:2500
+
+
+null
+Final Cart Value:0
+
+
+null
+Final Cart Value:0
+
+
+aniket123@gmail.com
+Study Table Lamp
+Piano Lamp
+Light Bulb
+CFL Light
+Final Cart Value:12450
+
+
+aniket123@gmail.com
+Study Table Lamp
+Final Cart Value:2000
+
+
+arjun123@gmail.com
+Study Table Lamp
+Swing arm Lamp
+Piano Lamp
+Tube Light
+chandelier
+Final Cart Value:22500
+
+
+arjun123@gmail.com
+Study Table Lamp
+chandelier
+Final Cart Value:12000
+
+
+arjun123@gmail.com
+Light Bulb
+Fancy Wall Clock
+Final Cart Value:4800
+
+
+arjun123@gmail.com
+Study Table Lamp
+Light Bulb
+Final Cart Value:2800
+
+
+arjun123@gmail.com
+Study Table Lamp
+Light Bulb
+Final Cart Value:2000

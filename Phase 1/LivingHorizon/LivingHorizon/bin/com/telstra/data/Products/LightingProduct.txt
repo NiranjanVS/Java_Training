@@ -1,0 +1,5 @@
+1:Light Bulb:400
+2:Tube Light:800
+3:CFL Light:150
+4:Focus Light:970
+5:DEMOBULB:500
